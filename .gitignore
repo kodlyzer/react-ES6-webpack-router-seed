@@ -1,0 +1,8 @@
+bundle.js
+*.bundle.js
+public/bundle.js
+public/*.bundle.js
+public/*.map
+node_modules
+.DS_Store
+*.log*
